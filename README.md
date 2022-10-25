@@ -1,3 +1,3 @@
 # reminder_bot
 
-Reminder bot for personal use
+Telegram reminder bot for personal use
